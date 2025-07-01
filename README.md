@@ -10,4 +10,5 @@ AYOO IM ALSO WANT TO BECOME A MALWARE DEVELOPER
 
 **[![trophy](https://github-profile-trophy.vercel.app/?username=ken3009le&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)**
 ![GitHub Trophy](https://raw.githubusercontent.com/ken3009le/ken3009le/main/assets/trophy.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken3009le&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
