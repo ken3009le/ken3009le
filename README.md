@@ -8,4 +8,6 @@
 AYOO IM ALSO WANT TO BECOME A MALWARE DEVELOPER
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ken3009le&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**[![trophy](https://github-profile-trophy.vercel.app/?username=ken3009le&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)**
+![GitHub Trophy](https://raw.githubusercontent.com/ken3009le/ken3009le/main/assets/trophy.png)
+
