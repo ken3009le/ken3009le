@@ -6,6 +6,4 @@
 - 🧑‍🎓 Pronouns: he/him  
 - ⚡ Fun fact: I don’t just break systems I rewrite their rules. When the world builds walls, I build the logic that makes them fall  
 AYOO IM ALSO WANT TO BECOME A MALWARE DEVELOPER
-<!---
-spyronx.vercel.app
---->
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenzema&theme=dracula&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
