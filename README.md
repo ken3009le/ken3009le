@@ -90,5 +90,5 @@ X.SYNTH Signature:
 <details>
   <summary><b>🛡️ System Status</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken3009le&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken3009le&layout=compact&langs_count=8&theme=radical&hide_border=false" />
 </details>
